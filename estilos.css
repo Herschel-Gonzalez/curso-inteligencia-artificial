@@ -1,0 +1,32 @@
+table{
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    width: 800px;
+    height: 800px;
+    margin:auto;
+    border-collapse: collapse;
+    overflow: hidden;
+
+}
+
+th,td{
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    width: 200px;
+    height: auto;
+    text-align: center;
+            padding: 10px;
+
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Prueba{
+    background-color: black;
+}
